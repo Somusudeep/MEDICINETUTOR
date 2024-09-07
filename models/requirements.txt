@@ -1,5 +1,9 @@
-streamlit
-pandas
-scikit-learn
-tensorflow
-pickle5
+streamlit==1.38.0
+numpy==2.1.1
+pandas==2.2.2
+pyarrow==17.0.0
+pillow==10.4.0
+pydeck==0.9.1
+requests==2.32.3
+tornado==6.4.1
+rich==13.8.0
